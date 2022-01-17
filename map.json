@@ -237,6 +237,37 @@
  "nextlayerid":23,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+  {
+   "name":"mapCopyright",
+   "type":"string",
+   "value":"CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)"
+  },
+  {
+   "name":"mapDescription",
+   "type":"string",
+   "value":"School map"
+  },
+  {
+   "name":"mapImage",
+   "type":"string",
+   "value":"map.png"
+  },
+  {
+   "name":"mapLink",
+   "type":"string",
+   "value":"https://valdotr.github.io/school/map.json"
+  },
+  {
+   "name":"mapName",
+   "type":"string",
+   "value":"School"
+  },
+  {
+   "name":"script",
+   "type":"string",
+   "value":"script.js"
+  }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -275,6 +306,12 @@
          "imagewidth":2432,
          "margin":0,
          "name":"Room_Builder_32x32",
+         "properties":[
+                {
+                 "name":"tata",
+                 "type":"string",
+                 "value":"toto"
+                }],
          "spacing":0,
          "tilecount":7448,
          "tileheight":32,
@@ -317,6 +354,16 @@
          "spacing":0,
          "tilecount":464,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":116,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
