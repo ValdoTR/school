@@ -393,19 +393,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"School map"
+         "value":"Suitable for up to 60 users.\n\nA small school for your children, a playground and 2 classrooms.\nLet them enjoy the feeling of being together even when they are each at home!"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/valdotr.github.io\/school\/map.json"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"School"
